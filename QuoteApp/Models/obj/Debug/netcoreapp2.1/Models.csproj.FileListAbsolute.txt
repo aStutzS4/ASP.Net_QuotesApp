@@ -1,0 +1,9 @@
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\obj\Debug\netcoreapp2.1\Models.dll
+C:\Users\Austin\Desktop\VS_Demos\QuoteApp\Models\obj\Debug\netcoreapp2.1\Models.pdb
